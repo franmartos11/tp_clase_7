@@ -1,0 +1,36 @@
+html body{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    margin:0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin: 0;
+}
+
+h1, h2 {
+    background-color: #C4C4C4;
+    color: #005677;
+}
+
+footer {
+    background-color: #005677;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bold;
+    color: #FFF;
+    padding: 7px;
+}
+
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.mas{
+    display: flex;
+    margin: 9px 0;
+}
